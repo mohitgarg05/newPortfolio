@@ -2,7 +2,7 @@ import React, {useEffect , useState} from 'react';
 import style from '../styles/Home.module.css'
 import { faGithub , faMedium } from '@fortawesome/free-brands-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import Projects from './contentArray';
+import Projects from '../data/contentArray';
 import Desc from './desc';
 
 export default function Home() {
@@ -11,6 +11,7 @@ export default function Home() {
   const [Index, setIndex] = useState(-1)
 
   useEffect(() => {
+    console.log(Projects)
     setProjectsData(Projects)
   }, [])
 
