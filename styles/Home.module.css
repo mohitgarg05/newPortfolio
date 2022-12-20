@@ -9,8 +9,8 @@
   position: relative;
 }
 
-
-.container::before{
+/* lower */
+.container::before{ 
   content: " ";
   width: 10px;
   background: linear-gradient(0deg,var(--grad-2)0%,var(--grad-1)100%);
@@ -20,7 +20,10 @@
   border-top-left-radius: 170px;
   left: 0;
   right: 0;
+
 }
+
+/* upper */
 .container::after{
   content: '';
   height: 10px;
@@ -277,9 +280,9 @@
     padding: 25px;
   }
 
-.waviy{
-  margin-top: 10px !important;
-}
+  .waviy{
+    margin-top: 60px !important;
+  }
 
   .waviy h4{
 
@@ -302,6 +305,10 @@
     margin-left: 20px;
   }
   
+
+  .container::before{
+    bottom: 85%;
+  }
   .sec{
     flex-direction: column;
     height: 100%;
