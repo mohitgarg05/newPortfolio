@@ -280,6 +280,10 @@
     padding: 25px;
   }
 
+  
+  .waviy h4{
+    margin-top: 10px !important;
+  }
   .waviy{
     margin-top: 60px !important;
   }
@@ -307,7 +311,7 @@
   
 
   .container::before{
-    bottom: 85%;
+    bottom: 86%;
   }
   .sec{
     flex-direction: column;
@@ -341,6 +345,7 @@
   }
 
   .waviy h4{
+    margin-top: 20px !important;
     font-size: 5.5vw;
   }
 
@@ -355,6 +360,12 @@
 @media screen and  (max-width:399px) {
   .logos a{
     margin-left: 10px;
+  }
+  .container::before{
+    bottom: 86%;
+  }
+  .container::after{
+    right: 70%;
   }
   .sec{
     flex-direction: column;
@@ -371,6 +382,10 @@
 
   .waviy span{
     font-size: 7vw;
+  }
+
+  .waviy h4{
+    margin-top: 20px !important;
   }
 
   .aboutMePara p{

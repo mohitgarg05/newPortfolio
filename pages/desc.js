@@ -5,7 +5,7 @@ const desc = (props) => {
 
     console.log(props)
   return (
-    <div >
+    <div className={style.projectDiv} >
         <h4>{props.data?.projectName}</h4>
                     <div className={style.aboutMePara}>
                       <p>{props.data?.Description}</p>
