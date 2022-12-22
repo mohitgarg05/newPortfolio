@@ -21,7 +21,6 @@ export default function Home() {
   }
 
   useEffect(() => {
-    
     console.log(ProjectsData[Index])
     if(Index!==-1){
       document.documentElement.style.setProperty('--grad-1',ProjectsData[Index].color1);

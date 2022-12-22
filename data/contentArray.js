@@ -10,7 +10,7 @@ const data = [
     },
     {
         projectName:"Price and Stock Comparison using Web scraping",
-        Description : "This project is team project where my part is to make frontend for this website. • We have developed a price and stock comparison project. In this project we take data from three different websites and then compare their price in our project. We use productId for the comparison of product from different website and after comparison we showed user the price and availability of stock in all three website so that don't have to go to different website to get product for least price.",
+        Description : "This project is team project where my part is to make frontend for this website. We have developed a price and stock comparison project. In this project we take data from three different websites and then compare their price in our project. We use productId for the comparison of product from different website and after comparison we showed user the price and availability of stock in all three website so that don't have to go to different website to get product for least price.",
         TechSkills: ["HTML" , "CSS" , "NextJs" , "API"],
         ViewSite : "",
         Github : "https://github.com/mohitgarg05/ShoesShopping",
@@ -18,7 +18,7 @@ const data = [
         color2 :"rgb(203,163,52)"
     },
     {
-        projectName:"450DSA",
+        projectName:"450DSA Tracker",
         Description : "450DSA is a website which helps user to track their DSA performance. I have take love Babbar 450 dsa sheet to get questions then I make different sections for different topics of dsa and in each section user can see how many they have done and how many and which one are left . This helps user to track their preparation of DSA. I used indexedDB(Browser database) to store the data of individual",
         TechSkills: ["HTML" , "CSS" , "ReactJs" , "IndexedDB"],
         ViewSite : "https://mohitgarg.netlify.app/",
@@ -28,12 +28,21 @@ const data = [
     },
     {
         projectName:"Weather app",
-        Description : "This website is the website to check current weather condition and forecast for next 5 days use openweather api to get data of weather. I make it at time of covid so i also use coronaVirus api to fetch the results of that particular state user searched for.   ",
+        Description : "This website is the website to check current weather condition and forecast for next 5 days use Openweather api to get data of weather. I make it at time of covid so i also use coronaVirus api to fetch the results of that particular state user searched for.   ",
         TechSkills: ["HTML" , "CSS" , "ReactJs" , "API"],
         ViewSite : "https://distracted-meitner-11adf0.netlify.app/",
         Github : "https://github.com/mohitgarg05/WeatherCoronaUpdate",
         color1 : "rgb(99,93,212)",
         color2 : "rgb(140,120,108)"
+    },
+    {
+        projectName:"Sorting visualizer",
+        Description : "This project is based on sorting algorithms. By using pure HTML , CSS and JavaScript I developed a visualizer for these sorting algorithms. User can generate any size of array and can adjust speed to see the visualizer.  ",
+        TechSkills: ["HTML" , "CSS" , "JavaScript"],
+        ViewSite : "https://mohitgarg05.github.io/",
+        Github : "https://github.com/mohitgarg05/mohitgarg05.github.io",
+        color1 : "rgb(76,119,165)",
+        color2 : "rgb(158,215,98)"   
     }
 ]
 

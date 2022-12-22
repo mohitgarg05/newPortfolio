@@ -52,6 +52,7 @@
   font-size: 40px;
   font-weight: 900;
   cursor: pointer;
+  
 }
 
 .logos{
@@ -152,7 +153,7 @@
   content: '';
   position: absolute;
   top: 95%; right: 0; bottom: 0; left: 0;
-  z-index: -1;
+  
   background: linear-gradient(to right, var(--grad-1)0% , var(--grad-2)100%);
 }
 
@@ -254,7 +255,6 @@
   content: '';
   position: absolute;
   top: 93%; right: 0; bottom: 0; left: 0;
-  z-index: 1;
   background: linear-gradient(to right, var(--grad-2)0%,var(--grad-1)100%);
 }
 
