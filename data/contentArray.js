@@ -43,6 +43,15 @@ const data = [
         Github : "https://github.com/mohitgarg05/mohitgarg05.github.io",
         color1 : "rgb(76,119,165)",
         color2 : "rgb(158,215,98)"   
+    },
+    {
+        projectName:"React Chat",
+        Description : "This is a real-time chat website where user can chat with each other. I use React.js for frontend part and Using firebase google auth I do a user authentication and for realtime database I use firebase which helps to fetch messages of both user in real time. ",
+        TechSkills: ["HTML" , "CSS" , "React.js", "Firebase"],
+        ViewSite : "https://real-time-chat-alpha.vercel.app/",
+        Github : "https://github.com/mohitgarg05/Real-time-Chat",
+        color1 : "#B2FEFA ",
+        color2 : "#0ED2F7"   
     }
 ]
 
