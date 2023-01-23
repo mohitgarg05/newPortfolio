@@ -12,7 +12,7 @@ const data = [
         projectName:"Price and Stock Comparison using Web scraping",
         Description : "This project is team project where my part is to make frontend for this website. We have developed a price and stock comparison project. In this project we take data from three different websites and then compare their price in our project. We use productId for the comparison of product from different website and after comparison we showed user the price and availability of stock in all three website so that don't have to go to different website to get product for least price.",
         TechSkills: ["HTML" , "CSS" , "NextJs" , "API"],
-        ViewSite : "",
+        ViewSite : "https://shoes-shopping-theta.vercel.app/",
         Github : "https://github.com/mohitgarg05/ShoesShopping",
         color1:"rgb(179,81,184)",
         color2 :"rgb(203,163,52)"
