@@ -71,10 +71,8 @@ export default function Home() {
                   <span style={{"--i":6}}>M</span>
                   <span style={{"--i":7}}>E</span>
                   <div className={style.aboutMePara}>
-                    <p>My name is Mohit Garg, I'm a full stack web developer. I developed many types of frontend pages and full stack web apps by using MERN tech.</p>
-                      <p>I am also web3 enthusiast. Leveling up my web developer skills by doing blockchain or web3 like technologies.
-                      From past 1 year , I started making content on technologies I know on twitter and writing 
-                       blogs on medium platform to help others. You can check them by clicking button on top right.
+                    <p>My name is Mohit Garg, I am passionate about web development and the technologies that drive it. I have hands-on experience with HTML, CSS, JavaScript, React, and Node.js and have used these skills to build several projects including an e-commerce website, a real-time chat application, a weather forecasting app and many landing pages to take my css skills to one more level up.</p>
+                    <p> I am continuously learning and exploring new technologies and am eager to take on new challenges in the field. I believe in the power of the internet to change the world and want to be a part of that change through my work in web development.
                     </p>
                   </div>
                   </> 
