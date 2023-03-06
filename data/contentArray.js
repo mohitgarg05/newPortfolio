@@ -52,6 +52,15 @@ const data = [
         Github : "https://github.com/mohitgarg05/Real-time-Chat",
         color1 : "#B2FEFA ",
         color2 : "#0ED2F7"   
+    },
+    {
+        projectName:"Resume Builder",
+        Description : "This is a resume builder app where user can login using their gmail and give details one-by-one after filling details they can choose resume template . I am adding resume template to the app continuously. I am storing this user's data in firebase database ",
+        TechSkills: ["HTML" , "CSS" , "Next.js", "MaterialUI" , "Firebase"],
+        ViewSite : "https://resume-builder-orpin.vercel.app/",
+        Github : "https://github.com/mohitgarg05/Resume-Builder",
+        color1 : "rgb(51,94,192) ",
+        color2 : "rgb(146,62,220)"   
     }
 ]
 
