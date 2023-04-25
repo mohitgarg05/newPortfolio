@@ -20,16 +20,6 @@ a {
   transition: all .2s ease-in-out;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: white;
-  }
-  body {
-    color: white;
-    background: rgb(29,29,32);
-  }
-}
-
 
 .fade-enter {
   opacity: 0;
